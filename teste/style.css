@@ -1,0 +1,115 @@
+
+#navbar{
+    background-color: rgb(165, 6, 6) !important;
+    
+}
+
+h3{
+    color:black;
+    font-size: 24px !important;
+    font-family:cursive;
+    text-align:left !important;
+
+    
+}
+
+h1{
+    color: rgb(165, 6, 6);
+    font-size: 50px;
+    font-weight: 700;
+    text-align: center;
+    margin-bottom: 20px;
+    font-style: italic;
+    text-shadow: black 3px 1px 3px;
+}
+#titulo{
+    color: rgb(255, 255, 255);
+    font-style: italic;
+    font-weight: 900;
+    font-size: 26px;
+    text-shadow: rgb(0, 0, 0) 3px 1px 3px;
+    margin-left: -800px;
+}
+#login{
+    font-weight: 700;
+    text-shadow: rgb(255, 255, 255) 1px 1px 1px;
+    font-size: 22px;
+
+}
+#login:hover{
+    color: rgb(61, 60, 60);
+}
+#pesquisa{
+    border-radius: 20px;
+    width: 200px;
+    height: 30px;
+    margin-top: 7px;
+}
+#pesquisa::placeholder{
+    padding-bottom: 3px;
+}
+.bi-search{
+    font-size: 20px;
+    color:black;
+    margin-top: 5px;
+    cursor: pointer;
+    text-shadow: black 1px 1px 1px;
+
+}
+.row{
+    margin-top: 40px;
+}
+.card{
+    
+    margin-left: 130px;
+    border: 2px solid black;
+    padding-top: 10px;
+    box-shadow: black 5px 2px 5px;
+}
+.card-body{
+    color: black;
+    padding-bottom: 3px !important;
+    font-weight: 600;
+}
+.cardapio{
+    color: black;
+}
+.cardapio:hover{
+    color: rgb(61, 60, 60);
+}
+
+.row2{
+    margin-top:100px;
+}
+
+footer{
+    margin-top: 200px;
+    
+    border-top: 2px solid rgb(0, 0, 0);
+    background-color: rgb(165, 6, 6); ;
+    text-align: center;
+    padding: 20px;
+
+
+}
+#icone{
+    font-size: 25px;
+    color: rgb(255, 255, 255);
+    margin: 10px;
+}
+#icone:hover{
+    color: black;
+}
+#rodapeText{
+    margin-top: 20px;
+    font-size: 20px;
+    color: white;
+    font-style: italic;
+}
+h5{
+    color: rgb(165, 6, 6);
+    font-style: italic;
+    font-weight: 700;
+    font-size: 24px;
+
+}
